@@ -9,4 +9,3 @@ I have Created an End To End Project of Amazon Sales Analysis Using Power Bi
  strategic decision-making.
 * Proven track record in transforming raw data into actionable insights for enhanced business performance.
 
-# Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiNTlmZjNhOTUtOGUwNC00Mjc0LThkNDEtNzY2YmI5YzNiMTg1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9 
